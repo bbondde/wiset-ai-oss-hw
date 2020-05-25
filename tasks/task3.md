@@ -19,8 +19,8 @@ index.html 파일을 열고 게임을 직접 실행해 봅시다.
 어떤 커밋때문에 버그가 생겼는지 찾아봅시다. 그리고 버그를 수정하려면 어떻게 해야 하는지 적어봅시다.
 
 ### 정답
-
-(여기에 버그를 유발한 커밋의 id와 어떻게 하면 버그를 수정할 수 있는지 적어주세요.)
+Doug McInnes <doug@dougmcinnes.com>이 Wed May 26에 추가한 commit 25ede8369의 Game.js 파일에 411 line에 "this.delayBeforeBullet = 10;"을 추가해주면 해결할 수 있다.
+ 
 
 ### 힌트
 
